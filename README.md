@@ -1,7 +1,5 @@
 # Quiz-App-Online
 
-Here’s a clean and professional `README.md` file tailored for your Online Examination System (OES) project on GitHub:
-
 ---
 
 
